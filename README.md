@@ -5,7 +5,7 @@ Noa-Web was created by Formatic in 2026.................
 ..........
 ## Webgoals and objectives
 
-#3 Site Map
+# Sitemap
 -home
 -abt
 -serv
