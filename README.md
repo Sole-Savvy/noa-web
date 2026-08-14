@@ -1,13 +1,12 @@
 # Noa-web
 ST10526932 Moleke Mphahlele
 ## Proj Over
-Noa-Web was created by Formatic in 2026.................
-..........
+NOA-WEB was founded in 2025 by entrepreneur Mphahlele Moleke in Pretoria, Gauteng. We started to help local businesses get online affordably.
 ## Webgoals and objectives
 
 # Sitemap
 -home
--abt
--serv
--enq
--cont
+-about
+-services
+-enquiries
+-contact
